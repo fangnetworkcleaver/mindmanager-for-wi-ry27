@@ -1,4 +1,4 @@
-# 
+# Enhance MindManager for Windows with MindManager for Windows exclusive Addon: tags & priority-markers, the #1 addon. Includes tags and priority-markers for a smoother and more
 
 
 
